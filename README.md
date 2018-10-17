@@ -16,7 +16,7 @@ xxxxxxxxxxxxx
     Github  
 
 `Mrs.Ding` is a good teacher.<br>
-[Google](https://www.google.com/ "悬停显示")
+[Google](https://www.google.com/ "悬停显示")<br>
 * 一级圆点<br>
   * 二级圆点<br>
     * 三级圆点<br>
@@ -39,7 +39,5 @@ xxxxxxxxxxxxx
 |列名1|列名2|列名3|
 |:---|:---|:---|
 |列1的内容1|列2的内容1|列3的内容1|<br>
-https://s3.ifanr.com/wp-content/uploads/2014/02/forktocat_600x375.jpg!720
 
-<img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
-
+![Github](https://s3.ifanr.com/wp-content/uploads/2014/02/forktocat_600x375.jpg!720 "悬停显示")

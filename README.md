@@ -43,3 +43,13 @@ xxxxxxxxxxxxx
 <div align=center>
 <img width="150" height="130" src="https://s3.ifanr.com/wp-content/uploads/2014/02/forktocat_600x375.jpg!720" /> 
 </div>
+
+```java
+println("a+b",a+b);
+if(2){
+}
+for(i=0;i<9;i++){
+}
+```
+
+

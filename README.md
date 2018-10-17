@@ -1,6 +1,5 @@
 <div align=center>
-  Github readme 
-  =====
+  <font size=7>Github readme </font>
 </div>
 
 <div align=center>
